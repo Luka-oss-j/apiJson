@@ -10,5 +10,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "registerDevice": {
+    "devCode":"AABBCCTEST",
+    "secret":"sddkancasjwnxajw"
   }
 }
